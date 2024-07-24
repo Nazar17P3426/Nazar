@@ -1,2 +1,2 @@
-# Nazar.exe-Trojan
-1 payload GDI skidded safety malware I made with Vistamations. Works on Windows XP-11.
+# Nazar
+C++ short skidded GDI trojan by Tubercomiosis99 and Vistamations
